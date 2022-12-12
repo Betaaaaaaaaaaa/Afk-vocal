@@ -1,0 +1,9 @@
+{
+  "token":"ton token",
+  "vocal": "id du vocal",
+  "guild": "id du serveur",
+  "casque": false,
+  "status": "dnd",
+  "state": "ton status",
+  "emojistatus": "ton emoji"
+}
